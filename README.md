@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Sersasj/Sersasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-alvarez-b44856233/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Computer Science student at UEM
+- 🎳 "f it dude let's go bowling"
+
+##
+
+  <a href="https://github.com/Sersasj">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Sersasj&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sersasj&layout=compact&langs_count=8&theme=react"/>
+</div>
