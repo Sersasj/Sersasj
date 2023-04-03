@@ -4,7 +4,7 @@
 
 
 - 📚 Computer Science student at UEM
-- 🎳 "f it dude let's go bowling"
+- 🎳 "F it Dude. Let's go bowling"
 
 ##
 
